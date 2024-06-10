@@ -1,0 +1,3 @@
+hello world
+this is text.txt file
+this is third line of file
