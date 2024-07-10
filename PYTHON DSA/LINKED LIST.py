@@ -22,78 +22,78 @@ _____   Linked List  _____
 
 # Node creation , sll creationg , traversing , inserting in linked list
 
-# class Node:
-#     def __init__(self,data):
-#         self.data = data
-#         self.next = None
+class Node:
+    def __init__(self,data):
+        self.data = data
+        self.next = None
 
-# class Sll:
-#     def __init__(self):
-#         self.head = None
+class Sll:
+    def __init__(self):
+        self.head = None
     
-#     def Traversal(self):
-#         if self.head is None:
-#             print("Singly Linked List is empty! ")
-#         else:
-#             a = self.head
-#             while a is not None:
-#                 print(a.data,end=" ")
-#                 a = a.next
+    def Traversal(self):
+        if self.head is None:
+            print("Singly Linked List is empty! ")
+        else:
+            a = self.head
+            while a is not None:
+                print(a.data,end=" ")
+                a = a.next
     
-#     def InsertItemAtBeginning(self,data):
-#         NewNode=Node(data)
-#         NewNode.next=self.head
-#         self.head=NewNode
+    def InsertItemAtBeginning(self,data):
+        NewNode=Node(data)
+        NewNode.next=self.head
+        self.head=NewNode
     
-#     def InsertItemAtEnd(self,data):
-#         NewNode=Node(data)
-#         a = self.head
-#         while a.next is not None:
-#             a = a.next
-#         a.next = NewNode
+    def InsertItemAtEnd(self,data):
+        NewNode=Node(data)
+        a = self.head
+        while a.next is not None:
+            a = a.next
+        a.next = NewNode
         
-#     def InsertItemAtSpecificPos(self,data,pos):
-#         NewNode=Node(data)
-#         a = self.head
-#         for i in range(1,pos-1):
-#             a = a.next
-#         NewNode.next = a.next
-#         a.next=NewNode
+    def InsertItemAtSpecificPos(self,data,pos):
+        NewNode=Node(data)
+        a = self.head
+        for i in range(1,pos-1):
+            a = a.next
+        NewNode.next = a.next
+        a.next=NewNode
     
-#     def DeletionAtBeginning(self):
-#         a = self.head
-#         self.head = a.next
-#         a.next = None
+    def DeletionAtBeginning(self):
+        a = self.head
+        self.head = a.next
+        a.next = None
         
-#     def DeletionAtEnd(self):
-#         previous = self.head
-#         a = self.head.next
-#         while a.next is not None:
-#             a = a.next
-#             previous = previous.next
-#         previous.next = None
+    def DeletionAtEnd(self):
+        previous = self.head
+        a = self.head.next
+        while a.next is not None:
+            a = a.next
+            previous = previous.next
+        previous.next = None
         
-#     def DeletionAtSpecifiedPosition(self,pos):
-#         previous = self.head
-#         a = self.head.next
-#         for i in range(1,pos-1):
-#             a = a.next
-#             previous = previous.next
-#         previous.next = a.next
-#         a.next = None
+    def DeletionAtSpecifiedPosition(self,pos):
+        previous = self.head
+        a = self.head.next
+        for i in range(1,pos-1):
+            a = a.next
+            previous = previous.next
+        previous.next = a.next
+        a.next = None
     
 
-# n1=Node(1)
-# sll=Sll()
-# sll.head=n1
-# n2=Node(2)
-# n1.next=n2
-# n3=Node(3)
-# n2.next=n3
-# n4=Node(4)
-# n3.next=n4
-# sll.Traversal()
-# print()
+n1=Node(1)
+sll=Sll()
+sll.head=n1
+n2=Node(2)
+n1.next=n2
+n3=Node(3)
+n2.next=n3
+n4=Node(4)
+n3.next=n4
+sll.Traversal()
+print()
 # sll.InsertItemAtBeginning(0)
 # sll.Traversal()
 # print()

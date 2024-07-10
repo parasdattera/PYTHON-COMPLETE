@@ -6,7 +6,7 @@
 #queue - First-inFirst-out (FIFO) principle, head and tail sections operatoins can be performed from both head and tail push , pop , access.
 
 
-#tree - tree have roots and nodes , root node, parent node, child node , last node is called as leave
+#tree - tree have roots and nodes , root node, parent node, child node , last node is called as leafe node
 
 
 #graph - collection of nodes and edges called as arcs , finite set of nodes and edges , for sample network of computers and computers act as nodes
