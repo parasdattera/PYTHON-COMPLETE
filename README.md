@@ -4,8 +4,8 @@
 
 > This repo consists of five folders which are described as below:--
 
-*  Python Basics -- > covers python's basics topics to understand syntax and create simple project
-*  Python OOPS -- > covers python's object oriented parts 
-*  PYTHON DSA -- > covers DSA with python 
-*  PYTHON ADVANCE CONCEPTS -- > covers all advance concepts which is very much usefull for creating market/industry level projects
-*  PYTHON INTERVIEW QUESTIONS -- > covers all important interview tricky questions
+1. Python Basics -- > covers python's basics topics to understand syntax and create simple project
+2. Python OOPS -- > covers python's object oriented parts 
+3. PYTHON DSA -- > covers DSA with python 
+4. PYTHON ADVANCE CONCEPTS -- > covers all advance concepts which is very much usefull for creating market/industry level projects
+5. PYTHON INTERVIEW QUESTIONS -- > covers all important interview tricky questions
