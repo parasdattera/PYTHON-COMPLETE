@@ -2,7 +2,7 @@
 
 ## A repo which contains all necessary python codes and teachings to learn python from begineer to master/expert level
 
-### This repo consists of five folders which are described as below:--
+> This repo consists of five folders which are described as below:--
 
 *  Python Basics -- covers python's basics topics to understand syntax and create simple project
 *  Python OOPS -- covers python's object oriented parts 
