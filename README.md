@@ -4,9 +4,9 @@
 
 > This repo consists of five folders which are described as below:--
 
-1. Python Basics
+1. PYTHON BASICS
    > covers python's basics topics to understand syntax and create simple project
-2. Python OOPS --
+2. PYTHON OOPS --
    > covers python's object oriented parts 
 3. PYTHON DSA --
    > covers DSA with python 
