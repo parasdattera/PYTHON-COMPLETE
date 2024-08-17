@@ -6,7 +6,11 @@
 
 1. Python Basics
    > covers python's basics topics to understand syntax and create simple project
-3. Python OOPS -- > covers python's object oriented parts 
-4. PYTHON DSA -- > covers DSA with python 
-5. PYTHON ADVANCE CONCEPTS -- > covers all advance concepts which is very much usefull for creating market/industry level projects
-6. PYTHON INTERVIEW QUESTIONS -- > covers all important interview tricky questions
+2. Python OOPS --
+   > covers python's object oriented parts 
+3. PYTHON DSA --
+   > covers DSA with python 
+4. PYTHON ADVANCE CONCEPTS --
+   > covers all advance concepts which is very much usefull for creating market/industry level projects
+5. PYTHON INTERVIEW QUESTIONS --
+   > covers all important interview tricky questions
