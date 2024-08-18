@@ -16,3 +16,46 @@
    > covers all important interview tricky questions
 
 ### feel free to add new topics 
+
+
+### below is the list of topics that are covered
+
+## PYTHON BASICS
+
+1. Variables
+2. Conditions
+3. Operators
+4. Control Flow
+5. Loops and Iterables
+6. Basic of Data Structures
+7. Functions
+8. Mutability and Immutability
+9. Comman and useful methods
+10. File IO
+
+
+## PYTHON OOPS
+
+1. Classes , Objects
+2. Attributes - instance , class , static
+3. Methods - instance , class , static
+4. Constructos and Destructors
+5. Class vs Object variables (attributes)
+
+
+Methods - class methods(@classmethod) , static methods(@staticmethod) , special methods(dunder methods with '__nameOfMethod__')
+
+'__init__' constructor method
+
+4. Inheritance
+5. Polymorphism
+6. Encapsulation
+7. Abstraction
+8. Mixins
+9. Design Patterns in OOP
+10. Metaclasses
+11. Property Decorators
+12. Class Decorators
+13. Multiple Inheritance and Method Resolution Order
+14. Diamond Problem in Multiple Inheritance
+
